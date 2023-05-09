@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="216" failures="0" errors="0" time="8.512">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:13" time="4.987" tests="12">
+    <testcase classname=" &lt;BoolField&gt; - renders an input" name=" &lt;BoolField&gt; - renders an input" time="0.021">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct id (inherited)" name=" &lt;BoolField&gt; - renders a input with correct id (inherited)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct id (specified)" name=" &lt;BoolField&gt; - renders a input with correct id (specified)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct name" name=" &lt;BoolField&gt; - renders a input with correct name" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders an input with correct type" name=" &lt;BoolField&gt; - renders an input with correct type" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders an input with correct disabled state" name=" &lt;BoolField&gt; - renders an input with correct disabled state" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct label (specified)" name=" &lt;BoolField&gt; - renders a input with correct label (specified)" time="0.011">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct value (default)" name=" &lt;BoolField&gt; - renders a input with correct value (default)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct value (model)" name=" &lt;BoolField&gt; - renders a input with correct value (model)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input with correct value (specified)" name=" &lt;BoolField&gt; - renders a input with correct value (specified)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a input which correctly reacts on change" name=" &lt;BoolField&gt; - renders a input which correctly reacts on change" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;BoolField&gt; - renders a wrapper with unknown props" name=" &lt;BoolField&gt; - renders a wrapper with unknown props" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:13" time="5.007" tests="15">
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes" name=" &lt;RadioField&gt; - renders a set of checkboxes" time="0.046">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes" name=" &lt;RadioField&gt; - renders a set of checkboxes" time="0.013">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct disabled state" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct disabled state" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct id (inherited)" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct id (inherited)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct id (specified)" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct id (specified)" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct name" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct name" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct options" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct options" time="0.013">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct options (transform)" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct options (transform)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct value (default)" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct value (default)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct value (model)" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct value (model)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes with correct value (specified)" name=" &lt;RadioField&gt; - renders a set of checkboxes with correct value (specified)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes which correctly reacts on change" name=" &lt;RadioField&gt; - renders a set of checkboxes which correctly reacts on change" time="0.017">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a set of checkboxes which correctly reacts on change (same value)" name=" &lt;RadioField&gt; - renders a set of checkboxes which correctly reacts on change (same value)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a label" name=" &lt;RadioField&gt; - renders a label" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;RadioField&gt; - renders a label (required)" name=" &lt;RadioField&gt; - renders a label (required)" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:12" time="5.352" tests="33">
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes" time="0.042">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct disabled state" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct disabled state" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct id (inherited)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct id (inherited)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct id (specified)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct id (specified)" time="0.023">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct name" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct name" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct options" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct options" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct options (transform)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct options (transform)" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct value (default)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct value (default)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct value (model)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct value (model)" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct value (specified)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes with correct value (specified)" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change" time="0.011">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change (array check)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change (array check)" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change (array uncheck)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change (array uncheck)" time="0.011">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change (same value)" name=" &lt;SelectField checkboxes&gt; - renders a set of checkboxes which correctly reacts on change (same value)" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;SelectField checkboxes&gt; - renders a label" name=" &lt;SelectField checkboxes&gt; - renders a label" time="0.021">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select" name=" &lt;SelectField&gt; - renders a select" time="0.017">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct disabled state" name=" &lt;SelectField&gt; - renders a select with correct disabled state" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct id (specified)" name=" &lt;SelectField&gt; - renders a select with correct id (specified)" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct name" name=" &lt;SelectField&gt; - renders a select with correct name" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct options" name=" &lt;SelectField&gt; - renders a select with correct options" time="0.027">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct options (transform)" name=" &lt;SelectField&gt; - renders a select with correct options (transform)" time="0.052">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct options (numbers)" name=" &lt;SelectField&gt; - renders a select with correct options (numbers)" time="0.015">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct placeholder (implicit)" name=" &lt;SelectField&gt; - renders a select with correct placeholder (implicit)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct value (default)" name=" &lt;SelectField&gt; - renders a select with correct value (default)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct value (model)" name=" &lt;SelectField&gt; - renders a select with correct value (model)" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select with correct value (specified)" name=" &lt;SelectField&gt; - renders a select with correct value (specified)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select which correctly reacts on change" name=" &lt;SelectField&gt; - renders a select which correctly reacts on change" time="0.019">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select which correctly reacts on change (array)" name=" &lt;SelectField&gt; - renders a select which correctly reacts on change (array)" time="0.029">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select which correctly reacts on change (placeholder)" name=" &lt;SelectField&gt; - renders a select which correctly reacts on change (placeholder)" time="0.035">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a select which correctly reacts on change (same value)" name=" &lt;SelectField&gt; - renders a select which correctly reacts on change (same value)" time="0.015">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a label" name=" &lt;SelectField&gt; - renders a label" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a label" name=" &lt;SelectField&gt; - renders a label" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;SelectField&gt; - renders a number label" name=" &lt;SelectField&gt; - renders a number label" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:18" time="0.557" tests="3">
+    <testcase classname=" &lt;NestField&gt; - renders an &lt;AutoField&gt; for each field" name=" &lt;NestField&gt; - renders an &lt;AutoField&gt; for each field" time="0.044">
+    </testcase>
+    <testcase classname=" &lt;NestField&gt; - renders custom content if given" name=" &lt;NestField&gt; - renders custom content if given" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;NestField&gt; - renders a label" name=" &lt;NestField&gt; - renders a label" time="0.006">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:18" time="0.633" tests="7">
+    <testcase classname=" &lt;ListField&gt; - works" name=" &lt;ListField&gt; - works" time="0.025">
+    </testcase>
+    <testcase classname=" &lt;ListField&gt; - renders ListAddField" name=" &lt;ListField&gt; - renders ListAddField" time="0.021">
+    </testcase>
+    <testcase classname=" &lt;ListField&gt; - renders correct label (specified)" name=" &lt;ListField&gt; - renders correct label (specified)" time="0.011">
+    </testcase>
+    <testcase classname=" &lt;ListField&gt; - renders correct numer of items with initialCount (specified)" name=" &lt;ListField&gt; - renders correct numer of items with initialCount (specified)" time="0.038">
+    </testcase>
+    <testcase classname=" &lt;ListField&gt; - renders children (specified)" name=" &lt;ListField&gt; - renders children (specified)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;ListField&gt; - renders children with correct name (children)" name=" &lt;ListField&gt; - renders children with correct name (children)" time="0.009">
+    </testcase>
+    <testcase classname=" &lt;ListField&gt; - renders children with correct name (value)" name=" &lt;ListField&gt; - renders children with correct name (value)" time="0.038">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:18" time="0.491" tests="6">
+    <testcase classname=" &lt;AutoFields&gt; - works" name=" &lt;AutoFields&gt; - works" time="0.021">
+    </testcase>
+    <testcase classname=" &lt;AutoFields&gt; - render all fields by default" name=" &lt;AutoFields&gt; - render all fields by default" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;AutoFields&gt; - renders only specified fields" name=" &lt;AutoFields&gt; - renders only specified fields" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;AutoFields&gt; - does not render ommited fields" name=" &lt;AutoFields&gt; - does not render ommited fields" time="0.009">
+    </testcase>
+    <testcase classname=" &lt;AutoFields&gt; - works with custom component" name=" &lt;AutoFields&gt; - works with custom component" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;AutoFields&gt; - wraps fields in specified element" name=" &lt;AutoFields&gt; - wraps fields in specified element" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:18" time="0.451" tests="4">
+    <testcase classname=" &lt;ListDelField&gt; - works" name=" &lt;ListDelField&gt; - works" time="0.016">
+    </testcase>
+    <testcase classname=" &lt;ListDelField&gt; - prevents onClick when disabled" name=" &lt;ListDelField&gt; - prevents onClick when disabled" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;ListDelField&gt; - prevents onClick when limit reached" name=" &lt;ListDelField&gt; - prevents onClick when limit reached" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;ListDelField&gt; - correctly reacts on click" name=" &lt;ListDelField&gt; - correctly reacts on click" time="0.011">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:18" time="0.434" tests="4">
+    <testcase classname=" &lt;ListAddField&gt; - works" name=" &lt;ListAddField&gt; - works" time="0.015">
+    </testcase>
+    <testcase classname=" &lt;ListAddField&gt; - prevents onClick when disabled" name=" &lt;ListAddField&gt; - prevents onClick when disabled" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;ListAddField&gt; - prevents onClick when limit reached" name=" &lt;ListAddField&gt; - prevents onClick when limit reached" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;ListAddField&gt; - correctly reacts on click" name=" &lt;ListAddField&gt; - correctly reacts on click" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:18" time="0.432" tests="2">
+    <testcase classname=" &lt;ErrorsField&gt; - renders list of correct error messages (context)" name=" &lt;ErrorsField&gt; - renders list of correct error messages (context)" time="0.018">
+    </testcase>
+    <testcase classname=" &lt;ErrorsField&gt; - renders children (specified)" name=" &lt;ErrorsField&gt; - renders children (specified)" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.428" tests="4">
+    <testcase classname=" &lt;ListItemField&gt; - works" name=" &lt;ListItemField&gt; - works" time="0.021">
+    </testcase>
+    <testcase classname=" &lt;ListItemField&gt; - renders AutoField" name=" &lt;ListItemField&gt; - renders AutoField" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;ListItemField&gt; - renders children if specified" name=" &lt;ListItemField&gt; - renders children if specified" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;ListItemField&gt; - renders ListDelField" name=" &lt;ListItemField&gt; - renders ListDelField" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.396" tests="3">
+    <testcase classname=" &lt;ErrorField&gt; - works" name=" &lt;ErrorField&gt; - works" time="0.015">
+    </testcase>
+    <testcase classname=" &lt;ErrorField&gt; - renders correct error message (context)" name=" &lt;ErrorField&gt; - renders correct error message (context)" time="0.017">
+    </testcase>
+    <testcase classname=" &lt;ErrorField&gt; - renders correct error message (specified)" name=" &lt;ErrorField&gt; - renders correct error message (specified)" time="0.009">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.277" tests="1">
+    <testcase classname=" exports everything" name=" exports everything" time="0.009">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:13" time="6.928" tests="14">
+    <testcase classname=" &lt;HiddenField&gt; - renders an input" name=" &lt;HiddenField&gt; - renders an input" time="0.024">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input with correct id (inherited)" name=" &lt;HiddenField&gt; - renders an input with correct id (inherited)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input with correct id (specified)" name=" &lt;HiddenField&gt; - renders an input with correct id (specified)" time="0.012">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input with correct name" name=" &lt;HiddenField&gt; - renders an input with correct name" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input with correct type" name=" &lt;HiddenField&gt; - renders an input with correct type" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input with correct value (default)" name=" &lt;HiddenField&gt; - renders an input with correct value (default)" time="0.021">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input with correct value (model)" name=" &lt;HiddenField&gt; - renders an input with correct value (model)" time="0.024">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input which correctly reacts on model change" name=" &lt;HiddenField&gt; - renders an input which correctly reacts on model change" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input which correctly reacts on model change (empty)" name=" &lt;HiddenField&gt; - renders an input which correctly reacts on model change (empty)" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;HiddenField&gt; - renders an input which correctly reacts on model change (same value)" name=" &lt;HiddenField&gt; - renders an input which correctly reacts on model change (same value)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;HiddenField noDOM&gt; - renders nothing" name=" &lt;HiddenField noDOM&gt; - renders nothing" time="0.001">
+    </testcase>
+    <testcase classname=" &lt;HiddenField noDOM&gt; - renders nothing which correctly reacts on model change" name=" &lt;HiddenField noDOM&gt; - renders nothing which correctly reacts on model change" time="0.001">
+    </testcase>
+    <testcase classname=" &lt;HiddenField noDOM&gt; - renders nothing which correctly reacts on model change (empty)" name=" &lt;HiddenField noDOM&gt; - renders nothing which correctly reacts on model change (empty)" time="0.001">
+    </testcase>
+    <testcase classname=" &lt;HiddenField noDOM&gt; - renders nothing which correctly reacts on model change (same value)" name=" &lt;HiddenField noDOM&gt; - renders nothing which correctly reacts on model change (same value)" time="0.028">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.425" tests="3">
+    <testcase classname=" &lt;SubmitField&gt; - renders" name=" &lt;SubmitField&gt; - renders" time="0.013">
+    </testcase>
+    <testcase classname=" &lt;SubmitField&gt; - renders disabled if error" name=" &lt;SubmitField&gt; - renders disabled if error" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;SubmitField&gt; - renders enabled if error and enabled" name=" &lt;SubmitField&gt; - renders enabled if error and enabled" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.43" tests="1">
+    <testcase classname=" &lt;ValidatedQuickForm&gt; - works" name=" &lt;ValidatedQuickForm&gt; - works" time="0.015">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.402" tests="1">
+    <testcase classname=" &lt;ValidatedForm&gt; - works" name=" &lt;ValidatedForm&gt; - works" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:13" time="7.108" tests="12">
+    <testcase classname=" &lt;AutoField&gt; - works - default field" name=" &lt;AutoField&gt; - works - default field" time="0.029">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders RadioField" name=" &lt;AutoField&gt; - renders RadioField" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders SelectField - input" name=" &lt;AutoField&gt; - renders SelectField - input" time="0.014">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders SelectField - checkbox" name=" &lt;AutoField&gt; - renders SelectField - checkbox" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders DateField" name=" &lt;AutoField&gt; - renders DateField" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders ListField" name=" &lt;AutoField&gt; - renders ListField" time="0.018">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders NumField" name=" &lt;AutoField&gt; - renders NumField" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders NestField" name=" &lt;AutoField&gt; - renders NestField" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders TextField" name=" &lt;AutoField&gt; - renders TextField" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders BoolField" name=" &lt;AutoField&gt; - renders BoolField" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders Component (model)" name=" &lt;AutoField&gt; - renders Component (model)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;AutoField&gt; - renders Component (specified)" name=" &lt;AutoField&gt; - renders Component (specified)" time="0.009">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:12" time="7.134" tests="13">
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea" name=" &lt;LongTextField&gt; - renders a textarea" time="0.041">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct disabled state" name=" &lt;LongTextField&gt; - renders a textarea with correct disabled state" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct id (inherited)" name=" &lt;LongTextField&gt; - renders a textarea with correct id (inherited)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct id (specified)" name=" &lt;LongTextField&gt; - renders a textarea with correct id (specified)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct name" name=" &lt;LongTextField&gt; - renders a textarea with correct name" time="0.038">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct placeholder" name=" &lt;LongTextField&gt; - renders a textarea with correct placeholder" time="0.009">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct value (default)" name=" &lt;LongTextField&gt; - renders a textarea with correct value (default)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct value (model)" name=" &lt;LongTextField&gt; - renders a textarea with correct value (model)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea with correct value (specified)" name=" &lt;LongTextField&gt; - renders a textarea with correct value (specified)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea which correctly reacts on change" name=" &lt;LongTextField&gt; - renders a textarea which correctly reacts on change" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea which correctly reacts on change (empty)" name=" &lt;LongTextField&gt; - renders a textarea which correctly reacts on change (empty)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a textarea which correctly reacts on change (same value)" name=" &lt;LongTextField&gt; - renders a textarea which correctly reacts on change (same value)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;LongTextField&gt; - renders a label" name=" &lt;LongTextField&gt; - renders a label" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:13" time="7.253" tests="19">
+    <testcase classname=" &lt;DateField&gt; - renders an input" name=" &lt;DateField&gt; - renders an input" time="0.039">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct id (inherited)" name=" &lt;DateField&gt; - renders a input with correct id (inherited)" time="0.014">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct id (specified)" name=" &lt;DateField&gt; - renders a input with correct id (specified)" time="0.01">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct name" name=" &lt;DateField&gt; - renders a input with correct name" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders an input with correct disabled state" name=" &lt;DateField&gt; - renders an input with correct disabled state" time="0.012">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct label (specified)" name=" &lt;DateField&gt; - renders a input with correct label (specified)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct label (specified)" name=" &lt;DateField&gt; - renders a input with correct label (specified)" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct value (default)" name=" &lt;DateField&gt; - renders a input with correct value (default)" time="0.011">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input with correct value (model)" name=" &lt;DateField&gt; - renders a input with correct value (model)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input which correctly reacts on change" name=" &lt;DateField&gt; - renders a input which correctly reacts on change" time="0.012">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input which correctly reacts on change (empty value)" name=" &lt;DateField&gt; - renders a input which correctly reacts on change (empty value)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input which correctly reacts on change (empty)" name=" &lt;DateField&gt; - renders a input which correctly reacts on change (empty)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input which correctly reacts on change (invalid)" name=" &lt;DateField&gt; - renders a input which correctly reacts on change (invalid)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input which correctly reacts on change (valid)" name=" &lt;DateField&gt; - renders a input which correctly reacts on change (valid)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - renders a input which correctly reacts on change (year bigger than 9999)" name=" &lt;DateField&gt; - renders a input which correctly reacts on change (year bigger than 9999)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - test max property - valid" name=" &lt;DateField&gt; - test max property - valid" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - test max property - invalid" name=" &lt;DateField&gt; - test max property - invalid" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - test min property - valid" name=" &lt;DateField&gt; - test min property - valid" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;DateField&gt; - test min property - invalid" name=" &lt;DateField&gt; - test min property - invalid" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:12" time="7.335" tests="32">
+    <testcase classname=" &lt;TextField&gt; - renders an input" name=" &lt;TextField&gt; - renders an input" time="0.048">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct disabled state" name=" &lt;TextField&gt; - renders an input with correct disabled state" time="0.013">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct id (inherited)" name=" &lt;TextField&gt; - renders an input with correct id (inherited)" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct id (specified)" name=" &lt;TextField&gt; - renders an input with correct id (specified)" time="0.007">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct name" name=" &lt;TextField&gt; - renders an input with correct name" time="0.008">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct placeholder" name=" &lt;TextField&gt; - renders an input with correct placeholder" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct type" name=" &lt;TextField&gt; - renders an input with correct type" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct value (default)" name=" &lt;TextField&gt; - renders an input with correct value (default)" time="0.009">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct value (model)" name=" &lt;TextField&gt; - renders an input with correct value (model)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input with correct value (specified)" name=" &lt;TextField&gt; - renders an input with correct value (specified)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input which correctly reacts on change" name=" &lt;TextField&gt; - renders an input which correctly reacts on change" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input which correctly reacts on change (empty)" name=" &lt;TextField&gt; - renders an input which correctly reacts on change (empty)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders an input which correctly reacts on change (same value)" name=" &lt;TextField&gt; - renders an input which correctly reacts on change (same value)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a label" name=" &lt;TextField&gt; - renders a label" time="0.009">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a label" name=" &lt;TextField&gt; - renders a label" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a help" name=" &lt;TextField&gt; - renders a help" time="0.044">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a initial value on date field (type = date)" name=" &lt;TextField&gt; - renders a initial value on date field (type = date)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a disabled date field (type = date)" name=" &lt;TextField&gt; - renders a disabled date field (type = date)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = date)" name=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = date)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = date - empty)" name=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = date - empty)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a initial value on time field (type = time)" name=" &lt;TextField&gt; - renders a initial value on time field (type = time)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a disabled date field (type = time)" name=" &lt;TextField&gt; - renders a disabled date field (type = time)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = time)" name=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = time)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = time - empty)" name=" &lt;TextField&gt; - renders a input which correctly reacts on change (type = time - empty)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test max property (type = time - valid)" name=" &lt;TextField&gt; - test max property (type = time - valid)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test max property (type = time - invalid)" name=" &lt;TextField&gt; - test max property (type = time - invalid)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test min property (type = time - valid)" name=" &lt;TextField&gt; - test min property (type = time - valid)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test min property (type = time - invalid)" name=" &lt;TextField&gt; - test min property (type = time - invalid)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test max property (type = date - valid)" name=" &lt;TextField&gt; - test max property (type = date - valid)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test max property (type = date - invalid)" name=" &lt;TextField&gt; - test max property (type = date - invalid)" time="0.009">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test min property (type = date - valid)" name=" &lt;TextField&gt; - test min property (type = date - valid)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;TextField&gt; - test min property (type = date - invalid)" name=" &lt;TextField&gt; - test min property (type = date - invalid)" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:12" time="7.344" tests="24">
+    <testcase classname=" &lt;NumField&gt; - renders an input" name=" &lt;NumField&gt; - renders an input" time="0.04">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct disabled state" name=" &lt;NumField&gt; - renders an input with correct disabled state" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct id (inherited)" name=" &lt;NumField&gt; - renders an input with correct id (inherited)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct id (specified)" name=" &lt;NumField&gt; - renders an input with correct id (specified)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct max" name=" &lt;NumField&gt; - renders an input with correct max" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct min" name=" &lt;NumField&gt; - renders an input with correct min" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct name" name=" &lt;NumField&gt; - renders an input with correct name" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct placeholder" name=" &lt;NumField&gt; - renders an input with correct placeholder" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct step (decimal)" name=" &lt;NumField&gt; - renders an input with correct step (decimal)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct step (integer)" name=" &lt;NumField&gt; - renders an input with correct step (integer)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct step (set)" name=" &lt;NumField&gt; - renders an input with correct step (set)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct type" name=" &lt;NumField&gt; - renders an input with correct type" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct value (default)" name=" &lt;NumField&gt; - renders an input with correct value (default)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct value (decimal)" name=" &lt;NumField&gt; - renders an input with correct value (decimal)" time="0.005">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct value (not decimal)" name=" &lt;NumField&gt; - renders an input with correct value (not decimal)" time="0.006">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input with correct value (specified)" name=" &lt;NumField&gt; - renders an input with correct value (specified)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input which correctly reacts on change" name=" &lt;NumField&gt; - renders an input which correctly reacts on change" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input which correctly reacts on change (decimal on decimal)" name=" &lt;NumField&gt; - renders an input which correctly reacts on change (decimal on decimal)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input which correctly reacts on change (decimal on integer)" name=" &lt;NumField&gt; - renders an input which correctly reacts on change (decimal on integer)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input which correctly reacts on change (empty)" name=" &lt;NumField&gt; - renders an input which correctly reacts on change (empty)" time="0.002">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input which correctly reacts on change (same value)" name=" &lt;NumField&gt; - renders an input which correctly reacts on change (same value)" time="0.004">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders an input which correctly reacts on change (zero)" name=" &lt;NumField&gt; - renders an input which correctly reacts on change (zero)" time="0.003">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders a label" name=" &lt;NumField&gt; - renders a label" time="0.011">
+    </testcase>
+    <testcase classname=" &lt;NumField&gt; - renders a label" name=" &lt;NumField&gt; - renders a label" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:20" time="0.353" tests="1">
+    <testcase classname=" &lt;BaseForm&gt; - works" name=" &lt;BaseForm&gt; - works" time="0.01">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:20" time="0.352" tests="1">
+    <testcase classname=" &lt;AutoForm&gt; - works" name=" &lt;AutoForm&gt; - works" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-05-02T16:26:19" time="0.472" tests="1">
+    <testcase classname=" &lt;QuickForm&gt; - works" name=" &lt;QuickForm&gt; - works" time="0.011">
+    </testcase>
+  </testsuite>
+</testsuites>
